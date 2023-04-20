@@ -1,4 +1,4 @@
-# UASiren
+# Amogus
 ![](https://img.shields.io/github/license/IVM-USER/Amogus?color=B34AEE)![](https://img.shields.io/badge/PBModular-module-B34AEE)
 <br>
 
