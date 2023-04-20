@@ -9,6 +9,7 @@ from pyrogram.types import Message
 class Amogus(BaseModule):
     @command("amogus")
     async def amogus_cmd(self, _, message: Message):
+        """[text] or {reply to text}"""
         tuntun = self.S["amogus"]["tun"]
         clrs = {'red': 1, 'lime': 2, 'green': 3, 'blue': 4, 'cyan': 5, 'brown': 6, 'purple': 7, 'pink': 8, 'orange': 9, 'yellow': 10, 'white': 11, 'black': 12}
         clr = randint(1,12)
